@@ -1,0 +1,28 @@
+body {
+    background-color: #85bdd6;
+    background-image:url transparent('color1.gif');
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif, ;
+    text-align: center;
+}
+
+form {
+    margin: 20px;
+}
+
+input, button {
+    margin: 5px;
+    padding: 5px;
+    color: #000000;
+    background-color: rgb(130, 234, 238);
+  
+}
+
+#dataDisplay {
+    margin: 20px;
+    border: 1px solid #e4d3d3;
+    padding: 10px;
+   background-image:url('color3.gif') ;
+
+}
